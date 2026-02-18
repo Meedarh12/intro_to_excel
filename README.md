@@ -1,4 +1,4 @@
- # Intro TO Excel 
+ # Intro To Excel 
  This is a mini project showcasing various skills learnt using Excel.
 
  The skills demostrated are as follows
